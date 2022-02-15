@@ -1,1 +1,14 @@
-{"name":"Eric Mold","password":"johndoe"}
+[
+    {
+        "name": "Manyi",
+        "password": "345"
+    },
+    {
+        "name": "Dorcsi",
+        "password": "123"
+    },
+    {
+        "name": "Dorcsiiiiiii",
+        "password": "123"
+    }
+]
