@@ -1,14 +1,22 @@
 [
     {
-        "name": "Manyi",
-        "password": "345"
+        "name": "user1",
+        "password": "123",
+        "todos": [
+            "kavet fozni",
+            "asztal",
+            "asztalok",
+            "asd",
+            "task",
+            "task2"
+        ]
     },
     {
-        "name": "Dorcsi",
-        "password": "123"
-    },
-    {
-        "name": "Dorcsiiiiiii",
-        "password": "123"
+        "name": "user2",
+        "password": "234",
+        "todos": [
+            "vasalni",
+            "vasalni"
+        ]
     }
 ]
